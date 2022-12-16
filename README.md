@@ -1,7 +1,5 @@
-- 👋 Hi, I’m developer ImTobis
-- 🌱 I’m currently learning crafting minecraft plugins
-- 📫 I am moderator on mc.rajce.Pro
-
+📘 I'm begginer developer
+📒 I'm currently learning Paper and Velocity API.
 <!---
-I currently doing on better combat log plugin
+I'm Currently working on Mine-Practice.eu
 --->
