@@ -1,4 +1,4 @@
 📘 I'm begginer developer
-📒 I'm currently learning Paper and Velocity API.
+📒 I'm currently learning PaperAPI.
 <!---
 --->
